@@ -1,0 +1,11 @@
+(i)smooth scrolling 
+    attach loco scroll css from githud
+        copy css code
+        and then copy js code just below 'Smooth'
+        change arguement in query select to your main page
+    search locomotive js cdn
+        click on attach locomotive scroll min js
+        then copy url
+        and paste in src of script file
+    
+(ii) 
